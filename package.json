@@ -1,0 +1,23 @@
+{
+  "name": "typescript_proj1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlcorsini/typescript_proj1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlcorsini/typescript_proj1/issues"
+  },
+  "homepage": "https://github.com/carlcorsini/typescript_proj1#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
